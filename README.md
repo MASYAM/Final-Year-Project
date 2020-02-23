@@ -7,11 +7,11 @@ Title: Neer – A Home Simulation Social Network Game
 Project Team Members:
  Md. Abdul Awal
 Id: 141-15-3155
-
 Computer Science & Engineering, Daffodil International University, Bangladesh
+
+
  Shahed Iqbal Chowdhury
 Id: 141-15-3163
-
 Computer Science & Engineering, Daffodil International University, Bangladesh
 
 Project Objectives:
