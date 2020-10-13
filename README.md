@@ -1,4 +1,4 @@
-# Final-Year-Project
+# Final-Year-Project - Neer, A Home Simulation Social Network Game
 
 Summary of Final Year Project
 
